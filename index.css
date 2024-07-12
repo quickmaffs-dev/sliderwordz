@@ -39,7 +39,7 @@ code {
   background-color: rgb(0, 162, 255);
 }
 .letter {
-  position: relative;
+  position: absolute;
   z-index: 2;
   left: 0;
   width: 100px;
