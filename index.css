@@ -32,14 +32,14 @@ code {
 }
 #slider {
   padding-top: 3px;
-  position: relative;
+  position: absolute;
   width: 0px;
   height: 130px;
   z-index: 1;
   background-color: rgb(0, 162, 255);
 }
 .letter {
-  position: absolute;
+  position: relative;
   z-index: 2;
   left: 0;
   width: 100px;
