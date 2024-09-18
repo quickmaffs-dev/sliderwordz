@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sliderwordz/static/css/main.862f7d7f.css",
+    "main.css": "/sliderwordz/static/css/main.a0f6cc83.css",
     "main.js": "/sliderwordz/static/js/main.07842f0f.js",
     "static/js/453.bee19600.chunk.js": "/sliderwordz/static/js/453.bee19600.chunk.js",
     "index.html": "/sliderwordz/index.html",
-    "main.862f7d7f.css.map": "/sliderwordz/static/css/main.862f7d7f.css.map",
+    "main.a0f6cc83.css.map": "/sliderwordz/static/css/main.a0f6cc83.css.map",
     "main.07842f0f.js.map": "/sliderwordz/static/js/main.07842f0f.js.map",
     "453.bee19600.chunk.js.map": "/sliderwordz/static/js/453.bee19600.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.862f7d7f.css",
+    "static/css/main.a0f6cc83.css",
     "static/js/main.07842f0f.js"
   ]
 }
